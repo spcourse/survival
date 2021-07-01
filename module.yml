@@ -1,5 +1,5 @@
-Introduction: .
+Introduction: /survival
 "Part 1: Pandas":
-    Pandas (assignment): pandas
+    Pandas (assignment): /survival/pandas
 "Part 2: Survival":
-    Survival (assignment): survival
+    Survival (assignment): /survival/survival
