@@ -8,4 +8,4 @@ To run the Jupyter notebook for this exercise: in your terminal, navigate to the
 
     jupyter notebooks
 
-This should open a new tab in your default internet browser, showing a sort of navigator. Double click on the notebook file called `pandas.ipynb`. This will open a new tab showing the contents of the notebook. Follow the instructions there on how to use notebooks.
+This should open a new tab in your default internet browser, showing a sort of navigator. Click on the notebook file called `pandas.ipynb`. This will open a new tab showing the contents of the notebook. Follow the instructions there on how to use notebooks.
