@@ -6,6 +6,6 @@ This assignment is in the form of a Jupyter notebook. This is another type of pr
 
 To run the Jupyter notebook for this exercise: in your terminal, navigate to the directory where you unzipped the assignment files. Type:
 
-    jupyter notebooks
+    jupyter notebook
 
 This should open a new tab in your default internet browser, showing a sort of navigator. Click on the notebook file called `pandas.ipynb`. This will open a new tab showing the contents of the notebook. Follow the instructions there on how to use notebooks.
