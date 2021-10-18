@@ -92,7 +92,7 @@ def test_7(frame):
 
 def test_8(series_a, series_b, series_c):
     solution = Series([477, 400, 254, 200, 100],
-                      index=["a", "b", "c ", "d", "e"])
+                      index=["a", "b", "c", "d", "e"])
     solution = solution.astype("float64")
 
     print("Testing: ", end='')
