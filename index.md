@@ -4,4 +4,4 @@ When you're programming on your own projects you won't have the guidance that yo
 
 You will inspect and analyze data from different fields of biology, and use that information to answer questions about the data. We're more interested in steps you took to answer the questions than the answers themselves.
 
-The module consists of two parts. First you will learn how to use a library called `Pandas` to read and manipulate data. Then you will learn to use `Seaborn` to inspect and analyze data. All further reading is contained within the notebooks of the exercises.
+The module consists of two main parts. First you will learn how to use a library called `Pandas` to read and manipulate data. Then you will learn to use `Seaborn` to inspect and analyze data. All further reading is contained within the notebooks of the exercises.
